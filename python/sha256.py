@@ -281,7 +281,7 @@ def sha_256(input_string):
  
     return hashed_string
 
-string = 'felix'
+string = 'felix '
 print(string)
 print(sha_256(string))
 
