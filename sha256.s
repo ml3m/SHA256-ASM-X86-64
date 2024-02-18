@@ -1,4 +1,15 @@
 
+##############################################
+#					     #
+#              SHA256 - x86 - 64             # 
+#					     #
+#	   ASM (NASM) Implementation         #
+#              				     # 
+#		github.com/ml3m		     #
+#					     #
+##############################################
+
+
 section .data
   ;; Usage message
   msg_usage       db    'usage: sha2-256 <string to hash>', 0xa
